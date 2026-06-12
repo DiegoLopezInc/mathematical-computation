@@ -1,0 +1,13 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+ConcurrentSim = "43ecad25-3f75-4b53-8b2f-7a8c96a5c4f7"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Piccolo = "7ad5a6f3-2a00-4764-a6f7-5b5f75c95f65"
+QuantumClifford = "0525e862-1b73-11eb-375f-4f06be62fe68"
+QuantumOptics = "6e0679c1-51ea-11e9-1b95-e10a5d2f0511"
+QuantumSavory = "af869a3e-e5db-4e05-a6fe-1e6c81e0aca2"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+[compat]
+julia = "1.10"
