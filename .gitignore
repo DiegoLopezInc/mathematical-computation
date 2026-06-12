@@ -36,6 +36,10 @@ venv/
 *.swo
 *~
 
+# Private research notes (keep off public repo)
+research/roadmap_internal.md
+research/field_knowledge.md
+
 # Data / outputs
 *.h5
 *.hdf5
